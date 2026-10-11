@@ -1,4 +1,4 @@
-Este es el proyecti de preentrega para el curso de talento tech en el se aplicaron las siguientes herramientas:
+Este es el proyecto de preentrega para el curso de talento tech en el se aplicaron las siguientes herramientas:
 
 - HTML5 semántico
 - CSS3 (Flexbox, Media Queries)
